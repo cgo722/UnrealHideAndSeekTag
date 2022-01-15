@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.0EA",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -22,6 +22,18 @@
 		},
 		{
 			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "Paper2D",
+			"Enabled": false
+		},
+		{
+			"Name": "GizmoEdMode",
 			"Enabled": true
 		}
 	]
