@@ -91,3 +91,9 @@ MyProject/Plugins/
  Content/*_BuiltData.uasset
  Build/*
  
+
+MyProject/Binaries/
+
+MyProject/Intermediate/
+
+MyProject/Saved/

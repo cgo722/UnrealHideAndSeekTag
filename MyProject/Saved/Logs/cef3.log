@@ -1,4 +1,0 @@
-[0105/174804.283:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
-[0105/174804.283:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
-[0105/174804.441:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
-[0105/174804.441:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
