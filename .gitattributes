@@ -5,3 +5,4 @@ MyProject/Content/AssetsL2/Ledge1/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetsL2/Path/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetsL2/Ground1/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetsL2/Ledge2/* filter=lfs diff=lfs merge=lfs -text
+MyProject/Content/AssetsL2/Ground2/* filter=lfs diff=lfs merge=lfs -text
