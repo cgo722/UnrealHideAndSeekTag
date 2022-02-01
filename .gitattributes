@@ -11,3 +11,4 @@ MyProject/Content/Megascans/3D_Plants/Dead_Shrubs_vdknafgha/* filter=lfs diff=lf
 MyProject/Content/Megascans/3D_Plants/Dead_Shrubs_vdknafgha/Foliage/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/Megascans/3D_Plants/Dead_Shrubs_vdknbbuha/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/Megascans/3D_Plants/Dead_Shrubs_vdknbbuha/Foliage/* filter=lfs diff=lfs merge=lfs -text
+MyProject/Content/AssetL1/Rock1/* filter=lfs diff=lfs merge=lfs -text
