@@ -22,3 +22,4 @@ MyProject/Content/AssetL1/Snow1/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetL1/Rock2/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/Player/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/Megascans/3D_Plants/Wild_Grass_vlkhcbxia/* filter=lfs diff=lfs merge=lfs -text
+MyProject/Content/Code_And_Blueprints/Mushroom/* filter=lfs diff=lfs merge=lfs -text
