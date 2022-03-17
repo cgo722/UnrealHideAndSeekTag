@@ -25,3 +25,5 @@ MyProject/Content/Megascans/3D_Plants/Wild_Grass_vlkhcbxia/* filter=lfs diff=lfs
 MyProject/Content/Code_And_Blueprints/Mushroom/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetL1/IceWall3/* filter=lfs diff=lfs merge=lfs -text
 MyProject/Content/AssetL1/TreeTrunk/* filter=lfs diff=lfs merge=lfs -text
+MyProject/Content/Player/NewPlayerANimation.uasset filter=lfs diff=lfs merge=lfs -text
+MyProject/Content/Player/TreeSpiritJumpANim.uasset filter=lfs diff=lfs merge=lfs -text
